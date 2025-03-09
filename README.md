@@ -86,8 +86,7 @@ This project implements **Weighted Clusterwise Linear Regression (WCLR)** using 
 
 📌 **Cluster Visualization**\
 
-![]
-
+![Cluster](images/filename.png).
 
 ---
 
@@ -105,5 +104,4 @@ This project is **open-source and for educational purposes only**.
 
 ---
 
-This **README.md** is now structured and **ready for GitHub!** 🚀 Let me know if you need any modifications. 😊
 
